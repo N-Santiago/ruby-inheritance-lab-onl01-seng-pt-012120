@@ -5,6 +5,6 @@ def initialize
 end 
 
 def learn 
-  
+  @knowledge puts ""
 
 end
