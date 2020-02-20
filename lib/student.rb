@@ -5,6 +5,7 @@ def initialize
 end 
 
 def learn 
-  @knowledge puts ""
+  @knowledge puts "Ruby framework Rails gem bundle update"
+end 
 
 end
