@@ -8,7 +8,7 @@ def learn(knowledge)
   @knowledge << "Ruby framework Rails gem bundle update"
 end 
 
-def knowledge
-  @knowledge
+def knowledge(knowledge)
+  @knowledge << "Javascript Ember Elixir knowledge"
 end 
 end
